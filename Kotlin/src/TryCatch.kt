@@ -1,0 +1,13 @@
+fun main(args:Array<String>){
+
+    try{
+        print("Enter the number: ")
+        var n2:Int = readLine()!!.toInt()
+        var div = 100/n2
+        println("DIV: $div")
+    }catch(ex:Exception){
+        println(ex.message)
+    }
+    println("App is done")
+
+}
