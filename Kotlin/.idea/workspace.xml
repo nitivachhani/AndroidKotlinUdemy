@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70618dc2-4ff2-42f8-b224-cb57da4c4cc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KotlinUdemyDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinUdemyDemo/.idea/KotlinUdemyDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinUdemyDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinUdemyDemo/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1XSz7UDzm3BXDQzK8LeRmmGrjFR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,7 +30,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -41,7 +43,7 @@
       <recent name="$PROJECT_DIR$/src/com/car/maintain" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MyThreadKt">
+  <component name="RunManager" selected="Kotlin.ComparableKt">
     <configuration name="ComparableKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
@@ -109,10 +111,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ComparableKt" />
         <item itemvalue="Kotlin.MyThreadKt" />
         <item itemvalue="Kotlin.MyFileKt" />
         <item itemvalue="Kotlin.TryCatchKt" />
-        <item itemvalue="Kotlin.ComparableKt" />
         <item itemvalue="Kotlin.SingletonKt" />
       </list>
     </recent_temporary>
@@ -143,22 +145,22 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="1254" y="262" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1581468194972" />
-    <state width="1111" height="2" key="GridCell.Tab.0.bottom" timestamp="1581538541864">
+    <state width="1111" height="347" key="GridCell.Tab.0.bottom" timestamp="1581560728371">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1111" height="2" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581538541864" />
-    <state width="1111" height="2" key="GridCell.Tab.0.center" timestamp="1581538541864">
+    <state width="1111" height="347" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581560728371" />
+    <state width="1111" height="347" key="GridCell.Tab.0.center" timestamp="1581560728370">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1111" height="2" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581538541864" />
-    <state width="1111" height="2" key="GridCell.Tab.0.left" timestamp="1581538541864">
+    <state width="1111" height="347" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581560728370" />
+    <state width="1111" height="347" key="GridCell.Tab.0.left" timestamp="1581560728369">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1111" height="2" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581538541864" />
-    <state width="1111" height="2" key="GridCell.Tab.0.right" timestamp="1581538541864">
+    <state width="1111" height="347" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581560728369" />
+    <state width="1111" height="347" key="GridCell.Tab.0.right" timestamp="1581560728370">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1111" height="2" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581538541864" />
+    <state width="1111" height="347" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581560728370" />
     <state width="877" height="234" key="GridCell.Tab.1.bottom" timestamp="1581143931019">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
