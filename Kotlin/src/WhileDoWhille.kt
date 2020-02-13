@@ -5,10 +5,10 @@ fun main() {
         println("Counter: $i")
     }
 
-    println("WHille Loop")
+    println("While Loop")
     var i = 1
     while(i<=10){
-        println("COunter: $i")
+        println("Counter: $i")
         i += 2
     }
 

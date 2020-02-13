@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70618dc2-4ff2-42f8-b224-cb57da4c4cc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTypes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,74 +37,74 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/car/maintain" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ComparableKt">
-    <configuration name="ComparableKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.com.car.maintain.TruckKt">
+    <configuration name="com.car.maintain.CarOptionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ComparableKt" />
+      <option name="MAIN_CLASS_NAME" value="com.car.maintain.CarOptionsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.car.maintain.CreditCardCompanyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MyFileKt" />
+      <option name="MAIN_CLASS_NAME" value="com.car.maintain.CreditCardCompanyKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyThreadKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.car.maintain.DataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MyThreadKt" />
+      <option name="MAIN_CLASS_NAME" value="com.car.maintain.DataClassKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.car.maintain.MaxAppKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="SingletonKt" />
+      <option name="MAIN_CLASS_NAME" value="com.car.maintain.MaxAppKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryCatchKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.car.maintain.TruckKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="TryCatchKt" />
+      <option name="MAIN_CLASS_NAME" value="com.car.maintain.TruckKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ComparableKt" />
-        <item itemvalue="Kotlin.MyThreadKt" />
-        <item itemvalue="Kotlin.MyFileKt" />
-        <item itemvalue="Kotlin.TryCatchKt" />
-        <item itemvalue="Kotlin.SingletonKt" />
+        <item itemvalue="Kotlin.com.car.maintain.TruckKt" />
+        <item itemvalue="Kotlin.com.car.maintain.MaxAppKt" />
+        <item itemvalue="Kotlin.com.car.maintain.DataClassKt" />
+        <item itemvalue="Kotlin.com.car.maintain.CreditCardCompanyKt" />
+        <item itemvalue="Kotlin.com.car.maintain.CarOptionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -152,22 +152,26 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="1254" y="262" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1581468194972" />
-    <state width="1358" height="267" key="GridCell.Tab.0.bottom" timestamp="1581619420776">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1358" height="242" key="GridCell.Tab.0.bottom" timestamp="1581625349108">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state width="1358" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581619420776" />
-    <state width="1358" height="267" key="GridCell.Tab.0.center" timestamp="1581619420775">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1358" height="242" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1581625349108" />
+    <state width="1358" height="242" key="GridCell.Tab.0.center" timestamp="1581625349107">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state width="1358" height="267" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581619420775" />
-    <state width="1358" height="267" key="GridCell.Tab.0.left" timestamp="1581619420775">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1358" height="242" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1581625349107" />
+    <state width="1358" height="242" key="GridCell.Tab.0.left" timestamp="1581625349106">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state width="1358" height="267" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581619420775" />
-    <state width="1358" height="267" key="GridCell.Tab.0.right" timestamp="1581619420775">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1358" height="242" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1581625349106" />
+    <state width="1358" height="242" key="GridCell.Tab.0.right" timestamp="1581625349107">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state width="1358" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581619420775" />
+    <state width="1358" height="242" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1581625349107" />
     <state width="877" height="234" key="GridCell.Tab.1.bottom" timestamp="1581143931019">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -184,14 +188,16 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="877" height="234" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581143931019" />
-    <state x="591" y="129" key="SettingsEditor" timestamp="1581619528643">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="591" y="121" key="SettingsEditor" timestamp="1581624799949">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="591" y="129" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1581619528643" />
-    <state x="519" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1581619505830">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="591" y="121" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1581624799949" />
+    <state x="519" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1581624802457">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581619505830" />
+    <state x="519" y="344" key="com.intellij.ide.util.TipDialog/0.23.1680.954@0.23.1680.954" timestamp="1581624802457" />
     <state x="745" y="135" width="816" height="825" key="find.popup" timestamp="1581538531304">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

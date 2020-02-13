@@ -26,6 +26,6 @@ fun main() {
 
     var department3:String?
     department3 = null
-    println("Department: ${department3}")    // null allowed - no error
-    println("Department: ${department3!!}")  // no null allowed - throw error
+    println("Department: ${department3}!!")    // null allowed - no error
+    println("Department: ${department3}!!")  // no null allowed - throw error
 }
